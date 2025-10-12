@@ -1,3 +1,4 @@
 Fix issue in Y [jMsqnU] line 6.1
 Fix issue in Y [BBm25j] line 8.2
 Improve performance [ooU9Of] line 2.1
+Refactor codebase with Z [Cmbhlb] line 6.2
